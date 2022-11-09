@@ -1,0 +1,17 @@
+{
+    "name": "agnes/property",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agnessian",
+            "email": "oladepe1103@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
